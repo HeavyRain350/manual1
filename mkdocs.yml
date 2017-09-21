@@ -1,3 +1,4 @@
-site_name: Manual de Usuario Sistema "tal"
+site_name: "Manual de Usuario Sistema \"tal\""
 pages:
-- Funciones del Sistema: funciones.md
+- Índice: index.md
+- "Funciones del Sistema": funciones.md
