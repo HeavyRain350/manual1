@@ -2,3 +2,4 @@ site_name: "Manual de Usuario Sistema \"tal\""
 pages:
 - Índice: index.md
 - "Funciones del Sistema": funciones.md
+- "Como usar el Sistema": comoUsar.md
